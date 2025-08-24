@@ -1,5 +1,5 @@
 # See: man pkg-config
-prefix=/Users/cesare/Documents/Sphere/public/python-lib/cpython/../install
+prefix=/Users/cesare/Documents/python-lib/cpython/../install
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include

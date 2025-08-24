@@ -1,4 +1,4 @@
-#!/Users/cesare/Documents/Sphere/public/python-lib/cpython/../install/bin/python3.13
+#!/Users/cesare/Documents/python-lib/cpython/../install/bin/python3.13
 
 from idlelib.pyshell import main
 if __name__ == '__main__':

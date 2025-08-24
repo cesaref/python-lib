@@ -1,4 +1,4 @@
-#!/Users/cesare/Documents/Sphere/public/python-lib/cpython/../install/bin/python3.13
+#!/Users/cesare/Documents/python-lib/cpython/../install/bin/python3.13
 # -*- python -*-
 
 # Keep this script in sync with python-config.sh.in

@@ -1,4 +1,4 @@
-#!/Users/cesare/Documents/Sphere/public/python-lib/cpython/../install/bin/python3.13
+#!/Users/cesare/Documents/python-lib/cpython/../install/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
